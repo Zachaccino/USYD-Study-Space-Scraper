@@ -1,2 +1,9 @@
 
 .DS_Store
+the_rooms/.DS_Store
+the_rooms/the_rooms/.DS_Store
+the_rooms/the_rooms/__pycache__/__init__.cpython-37.pyc
+the_rooms/the_rooms/__pycache__/settings.cpython-37.pyc
+the_rooms/the_rooms/spiders/__pycache__/__init__.cpython-37.pyc
+the_rooms/the_rooms/spiders/__pycache__/craw_rooms.cpython-37.pyc
+the_rooms/the_rooms/spiders/__pycache__/craw_venus.cpython-37.pyc
