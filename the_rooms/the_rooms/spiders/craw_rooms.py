@@ -65,12 +65,12 @@ class CrawRooms(scrapy.Spider):
         course = splits_str[1].strip()
 
         # Retrieve date.
-        date = splits_str[6][13:].split('-')
+        date = splits_str[6][14:].split('-')
         start_date = date[0].strip()
         end_date = date[1].strip()
 
         # Retrieve time.
-        time = splits_str[7][13:].split('-')
+        time = splits_str[7][14:].split('-')
         start_time = time[0].strip()
         end_time = time[1].strip()
 
